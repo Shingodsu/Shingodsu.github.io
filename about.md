@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm majoring in mechanical engineering at Inha University.
 
-### More Information
+### Areas of interest
+CAE (FEM)
+Deep Learning
+Data Analysis
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:5cow@naver.com)
