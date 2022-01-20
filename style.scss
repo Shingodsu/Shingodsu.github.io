@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $MidnightBlue;
+	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $Gainsboro;
+  color: $darkGray;
 }
 
 .container {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $red;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $red;
+    color: $blue;
   }
 }
 
@@ -122,11 +122,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $yellow;
-  background: $white;
+  color: $black;
+  background: $lightGray;
 }
 ::selection {
-  color: $yellow;
+  color: $black;
   background: $lightGray;
 }
 
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $beige;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $ivory;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $ivory;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -243,7 +243,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $ivory;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $ivory;
+    border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $blue;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
   }
@@ -275,7 +275,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $blue;
+  background-color: $lightGray;
 }
 
 footer {
