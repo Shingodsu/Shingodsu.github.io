@@ -12,4 +12,4 @@ CAE (FEM)/ Deep Learning/ Data Analysis
 
 ### Contact me
 
-[email@domain.com](mailto:5cow@naver.com)
+[12170345@inha.edu](mailto:12170345@inha.edu)
