@@ -20,4 +20,4 @@ date: 2022-01-21
  
   *self: 클래스에서 자기자신을 의미함<br/>
   
-*출처: https://wikidocs.net/1740, https://jonhyuk0922.tistory.com/125 <br/>
+*출처: (https://wikidocs.net/1740), (https://jonhyuk0922.tistory.com/125) <br/>
